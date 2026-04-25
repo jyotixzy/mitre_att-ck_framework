@@ -1,7 +1,3 @@
-# Purpose: Yeh document tumhare poore email security system me MITRE ATT&CK framework ko kaise implement karna hai, uska end-to-end guide hai.
-# Isme sirf URL analyzer nahi, balki saare 5 modules ke liye recommended checks, technique mappings, data sources aur architecture explain ki gayi hai.
-# Yeh document demo-level implementation aur future enterprise-style expansion dono ko dhyan me rakhkar likha gaya hai.
-
 ## MITRE Framework Implementation Guide For Email Security System
 
 Yeh document tumhare email security system ke 5 modules ko MITRE ATT&CK Enterprise framework ke saath map karne ka practical guide hai.
