@@ -1,5 +1,3 @@
-# Purpose: Yeh README project ka poora overview deta hai.
-# Isme setup, folder structure, data flow, aur MITRE mapping logic ko Hinglish me explain kiya gaya hai.
 
 ## URL Analyzer MITRE Demo
 
